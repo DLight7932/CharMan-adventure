@@ -1,0 +1,10 @@
+D:\OOP\Курсач\CharMan\CharMan\bin\Debug\CharMan.exe.config
+D:\OOP\Курсач\CharMan\CharMan\bin\Debug\CharMan.exe
+D:\OOP\Курсач\CharMan\CharMan\bin\Debug\CharMan.pdb
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.csprojAssemblyReference.cache
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.Properties.Resources.resources
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.csproj.GenerateResource.cache
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.csproj.CoreCompileInputs.cache
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.exe
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.pdb
+D:\OOP\Курсач\CharMan\CharMan\obj\Debug\CharMan.Game.resources
